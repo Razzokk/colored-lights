@@ -1,0 +1,7 @@
+Changelog:
+
+Version v1.0.0:
+
+MC Version 1.12.2
+
+-Added Colored Lights
