@@ -1,5 +1,13 @@
 Changelog:
 
+Version v1.0.1:
+
+-MCVersion: 1.12.2
+-Removed: Mirage as a library Mod for colored lighting
+-Added: Albedo as a library Mod for colored lighting
+-Changed: Smoother lighting now, also colors combine (add) very smoothly now
+-Cleaned up some Code
+
 Version v1.0.0:
 
 -MCVersion: 1.12.2
