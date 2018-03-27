@@ -1,14 +1,29 @@
 Changelog:
 
+Version v1.1.0:
+
+-MCVersion: 1.12.2
+-Added: Grinder (grinds down stuff like Wool and Dye into Colored Dust)
+-Added: GrinderRecipe: for all Wool colors into 4 Strings and Colored Dust (color of Wool)
+-Added: GrinderRecipe: for all Dye colors into 2 Colored Dust (color of Dye)
+-Added: Color Card (Tool for coloring Blocks that are available in all Minecraft colors)
+-Added: Colorable Blocks for Color Card: Wool, Stained Glass, Stained Glass Pane, Terracotta, Concrete, Concrete Powder, Carpet, Glazed Terracotta, Colored Lamps
+-Added: Config-Option for Colored Light to prevent Mobs from spawning (default: true)
+-Added: Colored dust can now be used in recipes like normal dye (OreDictionary e.g.: "dyeRed")
+-Added: Some background code that deserves future things
+-Removed: Crafting recipe for colored dusts
+-Changed: Colored Lamps now have hardness
+-changed: Classes that had no specific package except MainColoredLight are now in "coloredlights.util"
+
 Version v1.0.1:
 
 -MCVersion: 1.12.2
--Removed: Mirage as a library Mod for colored lighting
 -Added: Albedo as a library Mod for colored lighting
+-Removed: Mirage as a library Mod for colored lighting
 -Changed: Smoother lighting now, also colors combine (add) very smoothly now
 -Cleaned up some Code
 
 Version v1.0.0:
 
 -MCVersion: 1.12.2
--Added Colored Lights
+-Added: Colored Lights
