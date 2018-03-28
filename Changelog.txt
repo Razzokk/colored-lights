@@ -1,5 +1,14 @@
 Changelog:
 
+Version v1.1.1:
+
+-MCVersion: 1.12.2
+-Added: Textmessage on colorchange by Color Card (outputs selected color)
+-Added: Textmessage if missing Colored Dust in Color Card (outputs missing color)
+-Removed: Color Card Offhand compatibility (it was kind of messed up)
+-Fixed: Server Crash if Colored Lights is installed
+-Bug: Color Card Inventory only gets saved on Client correctly, don't use it on Servers
+
 Version v1.1.0:
 
 -MCVersion: 1.12.2
