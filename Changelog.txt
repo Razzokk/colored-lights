@@ -1,5 +1,31 @@
 Changelog:
 
+Version v1.2.0:
+
+--Botany Update--
+
+-MCVersion: 1.12.2
+-Added: Pneumea Flowers, Flowers that you can use as decoration or for dye production (they spawn naturally in world, rarely)
+-Added: Pneumea Seeds, Seeds for the Pneumea Crops
+-Added: Pneumea Crops, drops a Pneumea Flower after being fully grown and harvested
+-Added: Alpha Tree Sapling which acts like a normal sapling and produces an alpha tree, this has a personal historical meaning (shape and textures included)
+-Added: Config options to turn off/on blocks and items, see the coloredlights.cfg config file
+-Added: GrinderRecipe: turn Pneumea Flowers into the corresponding Colored Dust
+-Added: GrinderRecipe: Carpets, turn it into string and colored dust
+-Added: GrinderRecipe: Beds, turn it into wooden planks and string
+-Added: ColorCard Interface Selection, click on the color you want to select in the ColorCards GUI
+-Changed: CreativeTab-Icon is now a red inverted Lamp instead of a black Lamp
+-Changed: Colored Lamps update their stored light level to prevent mobs from spawning much better (not depending on randomTicks anymore)
+-Changed: ColorCard texture (enhanced and added more detail)
+-Changed: basically all color textures, they are more saturated now
+-Changed: ColorCard recipe
+-Fixed: ColorCard now saves its inventory correctly
+-If you are reading this and get the reference for the pneumea flower dm me on curseforge :3
+-Fixed: Grinder Crash when breaking it
+-Refactored internal code stuff
+-Updated to the new Albedo version: albedo-1.12.2-1.1.0, lower versions are not supported
+-Using Albedos new capability now
+
 Version v1.1.1:
 
 -MCVersion: 1.12.2
